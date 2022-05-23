@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=hello%20changwoon&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=hello%20world&fontSize=70)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoon2&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changwoon2)
