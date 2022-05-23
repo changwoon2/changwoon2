@@ -9,14 +9,16 @@
 
 <div align=center>
   
- # 한개
- ## 두개
- ### 세개
- #### 네개
+🙌Introduction
+  
+ 안녕하세요! 공부중인 신입개발자입니다. ☺️  
+  
+ 🍀Skill
+  
+ ✏️ Studying
  
- <h1>에이치원</h1>
- <h2>에이치투</h2>
- <h3>에이치쓰리</h3>
+ 💪 Problem Solving
+
   
 </div>
 
